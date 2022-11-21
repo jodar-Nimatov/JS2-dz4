@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "Jodarbek",
+      "LastName": "",
+      "Age": "",
+      "id": 1
+    },
+    {
+      "name": "Jodarbek",
+      "LastName": "Nimatov",
+      "Age": "18",
+      "id": 2
+    },
+    {
+      "name": "Baigeldi",
+      "LastName": "Sultanov",
+      "Age": "12",
+      "id": 3
+    },
+    {
+      "name": "Ruslan",
+      "LastName": "Buralkiev",
+      "Age": "9",
+      "id": 4
+    },
+    {
+      "name": "Maksat",
+      "LastName": "Abdurasulov",
+      "Age": "16",
+      "id": 5
+    },
+    {
+      "name": "Oleg",
+      "LastName": "Krohmal",
+      "Age": "13",
+      "id": 6
+    }
+  ]
+}
